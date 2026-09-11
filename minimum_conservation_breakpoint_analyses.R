@@ -13,7 +13,7 @@ str(DATOS)
 
 
 ### 2. PARÁMETROS GENERALES ###################################
-PA_ACTUAL <- 13.7# Cobertura ACTUAL de áreas protegidas del NSDF
+PA_ACTUAL <- 13.47# Cobertura ACTUAL de áreas protegidas del NSDF
 TARGET_30 <- 30# Meta internacional 30x30
 VENTANA <- 10#Ventana para estimar pendientes locales
 
