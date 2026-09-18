@@ -1,7 +1,0 @@
-feature list file = feature_list_future_scenario_ANPs.txt
-weight groups file = D:\proyectos_sigs\8.avril_bosques_secos_priorities\Zonation5_dry_forests_plants\04_weights\weight_groups_PAs_futuro.txt
-hierarchic mask layer = D:\proyectos_sigs\8.avril_bosques_secos_priorities\Zonation5_dry_forests_plants\03_masks\hierarchic_mask_WDPA.tif
-cost layer = D:\proyectos_sigs\8.avril_bosques_secos_priorities\Zonation5_dry_forests_plants\02_condition_layers\threat_layers\index_threat_cost_future.tif
-interaction connectivity link file = feature_connectivity_futuro_ANPs.txt
-mean ranking error threshold = 0.001
-analysis area mask layer = D:\proyectos_sigs\8.avril_bosques_secos_priorities\Zonation5_dry_forests_plants\03_masks\mask_forests.tif
